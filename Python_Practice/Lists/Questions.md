@@ -8,3 +8,23 @@
 8.  Write a Python program to clone or copy a list  
 9.  Write a Python program to find the list of words that are longer than n from a given list of words  
 10. Write a Program that get two lists as input and check if they have at least one common member  
+11. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements. (enumerate)  
+12.  Write a Python program to print the numbers of a specified list after removing even numbers from it  
+13.  Write a Python program to shuffle and print a specified list (shuffle)  
+14.  Write a Python program to generate and print a list of first and last 5 elements where the values are square of numbers between 1 and 30  
+15.  Write a Python program to generate all permutations of a list in Python. (itertools)  
+16.  Write a Python program to convert a list of characters into a string  
+17.  Write a Python program to find the index of an item in a specified list  
+18.  Write a Python program to flatten a shallow list  
+19.  Write a Python program to add a list to the second list  
+20.  Write a Python program to select an item randomly from a list Using random.choice()  
+21.  Write a python program to check whether two lists are circularly identical  
+22.  Write a Python program to find the second smallest number in a list  
+23.  Write a Python program to find the second largest number in a list  
+24.  Write a Python program to get unique values from a list  
+25.  Write a Python program to get the frequency of the elements in a list(collections)  
+26.  Create a list by concatenating a given list which range goes from 1 to n  
+27.  Write a Python program to get variable unique identification number or string  
+28.  Write a Python program to find common items from two lists  
+29.  Write a Python program to split a list based on first character of word  
+30.  Write a Python program to select the odd number of a list  
