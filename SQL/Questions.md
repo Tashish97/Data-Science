@@ -18,4 +18,9 @@ H - Hard
 13. Hire peoples within budget,**M**  
 14. Qualify candidates based on conditions,**M**  
 15. Infosys puzzle question,**M**  
-16. 
+16. Find top 4 numbers from any 2 sections, fulfilling criterias,**M** 
+17. Find couple of trades fulfilling criteria,**M** 
+18. Find employee names with highest and lowest salary in each department,**M**  
+19. Find the callers whose first and last receiver for a day are same,**M**  
+20. Populate category values till the last not null value,**H** 
+21.  
