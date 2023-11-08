@@ -13,3 +13,9 @@ H - Hard
 8. number of users who purchased the same product on two or more different days,**M**  
 9. Pairing child and adult,**M**  
 10. Generate points table,**M**  
+11. Get company name which has consistent increasing revenue,**M**  
+12. People relationships,**M**  
+13. Hire peoples within budget,**M**  
+14. Qualify candidates based on conditions,**M**  
+15. Infosys puzzle question,**M**  
+16. 
