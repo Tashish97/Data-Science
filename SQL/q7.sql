@@ -21,6 +21,7 @@ customer_id revenue
 123         150
 */
 
+-- 1st way
 with cte as(
 select *,
 case
@@ -31,3 +32,18 @@ from adobe_transactions
 where customer_id in (select customer_id from adobe_transactions where lower(product) like '%photoshop%'))
 
 select customer_id,SUM(except_revenue) revenue from cte group by customer_id;
+
+-- 2nd way
+select customer_id,
+SUM(revenue)-
+SUM(
+case
+when lower(product) like '%photoshop%' then revenue
+end)
+from adobe_transactions
+group by customer_id
+having 
+SUM(
+case
+when lower(product) like '%photoshop%' then revenue
+end) is not null;

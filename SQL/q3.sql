@@ -20,9 +20,16 @@ Q : write sql query to find the patients present inside the hospital
 
 select * from hospital;
 
+
+-- 1st way
 select  
 distinct emp_id
 from(
 select *, first_value(action) over(partition by emp_id order by time DESC) last_action from hospital
 ) tab1
-where last_action = 'in'
+where last_action = 'in';
+
+-- 2nd way
+select h.* from hospital h join
+(select emp_id,MAX(time) mtime from hospital group by emp_id) b
+on h.time=b.mtime and h.emp_id = b.emp_id where h.action ='in';

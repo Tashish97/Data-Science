@@ -35,6 +35,12 @@ Thomas				3
 
 select * from events;
 
+-- 1st way
 select a.GOLD,COUNT(1)[Number of Medals] from events a left join events b on a.GOLD=b.SILVER left join events c on a.GOLD=c.BRONZE
 where b.SILVER is null and c.BRONZE is null
 group by a.GOLD;
+
+-- 2nd way
+select GOLD,count(*) from events 
+where GOLD not in (select SILVER from events union select BRONZE from events)
+group by GOLD;

@@ -24,6 +24,7 @@ Q: SQL to find business days b/w create_date and resolved_date excluding weekend
 
 select * from tickets;
 
+-- 1st way
 select 
 	ticket_id,
 	create_date,
@@ -35,3 +36,10 @@ select ticket_id,create_date,resolved_date,count(reason) num_holidays
 from tickets left join holidays on holiday_date between create_date and resolved_date
 group by ticket_id,create_date,resolved_date
 ) tab1
+
+-- 2nd way
+select ticket_id, create_date, resolved_date,
+DATEDIFF(day,create_date,resolved_date) - count(distinct reason) -2*(DATEDIFF(week,create_date,resolved_date))
+business_days
+from tickets left join holidays on holidays.holiday_date between tickets.create_date and tickets.resolved_date
+group by ticket_id, create_date, resolved_date;

@@ -23,4 +23,18 @@ H - Hard
 18. Find employee names with highest and lowest salary in each department,**M**  
 19. Find the callers whose first and last receiver for a day are same,**M**  
 20. Populate category values till the last not null value,**H** 
-21.  
+21. Write sql query to identify yearwise count of new cities where udan has started operations,**H**  
+22. Get runs per over in a match,**H**  
+23. Find user wise entry statistics,**H**  
+24. Find new and old customer visits for each date,**H**  
+25. Find details of people whose friends scores sum in >100,**M**  
+26. Write a sql query to find the cancellation rate of requests for road trips,**H**  
+27. Leetcode Find winners in each group,**H** 
+28. Process wise summarization,**H**    
+29. Find the 3rd highest salary for each department,**M**  
+30. Check 2nd item sold product is from favourite brand,**H**  
+31. Leetcode Game Play Analysis,**H**  
+32. User purchase platform analysis,**H**  
+33. Find product pairs most commonly purchased together,**H**  
+34. Prime subscription rate by product action,**H**  
+35. Get second most recent activity,**M**  
