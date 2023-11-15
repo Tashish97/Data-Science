@@ -38,3 +38,9 @@ H - Hard
 33. Find product pairs most commonly purchased together,**H**  
 34. Prime subscription rate by product action,**H**  
 35. Get second most recent activity,**M**  
+36. Spotify Data Analyst Case Study,**H**  
+37. Find cities where the covid cases are increasing continuously,**H** 
+38. Find missing quarter for each store,**H**  
+39. Meesho Find how many products fall into customer budget along with list of products,**H**  
+40. Medium to Hard student marks,**H** 
+41. Get largest order by value,**H**   
