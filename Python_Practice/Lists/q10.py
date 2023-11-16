@@ -12,3 +12,15 @@ def haveCommon(x,y):
         
 haveCommon(lst1,lst2)
 haveCommon(lst1,lst3)
+
+# using loop
+def loophaveCommon(x,y):
+    for item in x:
+        if item in y:
+            print('At least one common member') 
+            break
+    else:
+        print('No common member')
+    
+loophaveCommon(lst1,lst2)
+loophaveCommon(lst1,lst3)

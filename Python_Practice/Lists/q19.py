@@ -7,3 +7,7 @@ lst2 = ["Cat", "Dog", "Lion", "Panda"]
 lst3 = lst1+lst2
 
 print(lst3)
+
+# using extend function
+lst1.extend(lst2)
+print(lst1)

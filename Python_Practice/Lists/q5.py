@@ -2,6 +2,7 @@
 
 lst = ['abc', 'xyz', 'aba', '1221']
 
+#using loop
 def custom(l):
     count = 0
     for i in l:

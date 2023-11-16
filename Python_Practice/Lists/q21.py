@@ -19,3 +19,20 @@ def cIdentical(x,y):
         
 cIdentical(lst1,lst2)
 cIdentical(lst1,lst3)
+
+def custom_sort(a):
+    '''
+    Function to do list sorting
+    '''
+    i=1
+    while i<len(a):
+        if a[i]<a[i-1]:
+            a[i-1]=a[i]
+        i+=1
+    return a
+
+def cid(a,b):
+    print('True' if custom_sort(a)==custom_sort(b) else 'False')
+
+cid(lst1,lst2)
+cid(lst1,lst3)

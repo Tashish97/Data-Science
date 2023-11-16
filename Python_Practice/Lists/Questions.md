@@ -28,3 +28,13 @@
 28.  Write a Python program to find common items from two lists  
 29.  Write a Python program to split a list based on first character of word  
 30.  Write a Python program to select the odd number of a list  
+31.  Write a Python Program to count unique values inside a list  
+32.  Write a Python Program to List product excluding duplicates  
+33.  Write a Python Program to Extract elements with Frequency greater than K  
+34.  Write a Python Program to Test if List contains elements in Range  
+35.  Write a Python program to check if the list contains three consecutive common numbers in Python  
+36.  Write a Python program to find the Strongest Neighbour  
+37.  Write a Python Program to print all Possible Combinations from the three Digits  
+38.  Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.  
+39.  Write a Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False.  
+40.  
