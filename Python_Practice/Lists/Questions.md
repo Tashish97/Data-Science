@@ -37,4 +37,24 @@
 37.  Write a Python Program to print all Possible Combinations from the three Digits  
 38.  Write a Python program to get a list, sorted in increasing order by the last element in each tuple from a given list of non-empty tuples.  
 39.  Write a Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False.  
-40.  
+40.  Difference b/w two lists  
+41.  Write a Python program to check whether a list contains a sublist.  
+42.  Write a Python program to generate all sublists of a list.  
+43.  Write a Python program to change the position of every n-th value to the (n+1)th in a list.  
+44.  Write a Python program to split a list based on the first character of a word.  
+45.  Write a Python program to convert a list of multiple integers into a single integer.  
+46.  Missing and additional elements b/w wo lists  
+47.  Group five consecutive numbers from a list  
+48.  Write a Python program to insert an element before each element of a list.  
+49.  Write a Python program to convert a list to a list of dictionaries.  
+50.  Write a Python program to sort a list of nested dictionaries.  
+51.  Write a Python program to split a list every Nth element.  
+52.  Write a Python program to compute the difference between two lists.  
+53.  Write a Python program to move all zero digits to the end of a given list of numbers.  
+54.  Write a Python program to find the list in a list of lists whose sum of elements is the highest.  
+55.  Write a Python program to check if all the values in a list are greater than a specified number.  
+56.  Write a Python program to extend a list without appending.  
+57.  Write a Python program to remove duplicates from a list of lists.  
+58.  Write a Python program to find items starting with a specific character from a list.  
+59.  Write a Python program to remove consecutive (following each other continuously) duplicates (elements) from a given list.  
+60.  Write a Python program to pack consecutive duplicates of a given list of elements into sublists.  
