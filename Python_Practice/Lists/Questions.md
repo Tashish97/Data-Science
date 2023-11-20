@@ -58,3 +58,23 @@
 58.  Write a Python program to find items starting with a specific character from a list.  
 59.  Write a Python program to remove consecutive (following each other continuously) duplicates (elements) from a given list.  
 60.  Write a Python program to pack consecutive duplicates of a given list of elements into sublists.  
+61.  Write a Python program to create a list reflecting the run-length encoding from a given list of integers or a given list of characters.  
+62.  Write a Python program to create a list reflecting the modified run-length encoding from a given list of integers or a given list of characters.  
+63.  Write a Python program to decode a run-length message.  
+64.  Write a Python program to count the number of unique sublists within a given list.  
+65.  Write a Python program to sort each sublist of strings in a given list of lists.  
+66.  Write a Python program to remove sublists from a given list of lists that contain an element outside a given range.  
+67.  Write a Python program to scramble the letters of a string in a given list.
+68.  Write a Python program to find the maximum and minimum values in a given heterogeneous list.  
+69.  Write a Python program to extract common index elements from more than one given list.  
+70.  Write a Python program to sort a given matrix in ascending order according to the sum of its rows.  
+71.  Write a Python program to extract elements from a given list, between passed element.  
+72.  Write a Python program to extract elements from a given list, which follows each other continuously n times.  
+73.  Write a Python program to find the difference between consecutive numbers in a given list.  
+74.  Write a Python program to compute average of given lists.  
+75.  Write a Python program to remove a specified column from a given nested list.  
+76.  Write a Python program to extract a specified column from a given nested list.  
+77.  Write a Python program to remove words from a given list of strings containing a character or string.  
+78.  Write a Python program to count the same pair in three given lists.  
+79.  Write a Python program to count the frequency of consecutive duplicate elements in a given list of numbers.  
+80.  Write a Python program to find the difference between two lists including duplicate elements.  
