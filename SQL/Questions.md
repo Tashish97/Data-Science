@@ -45,3 +45,5 @@ H - Hard
 40. Medium to Hard student marks,**H** 
 41. Get largest order by value,**H**   
 42. On Off Problem,**H**  
+43. Final origin and destination for each cid,**M**  
+44. Find count of new customers each day,**M**  
