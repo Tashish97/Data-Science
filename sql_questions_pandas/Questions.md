@@ -8,3 +8,8 @@
 8. Pairing child and adult. Each child must be paired with an adult so that they can ride a fair. Adult can ride the fair alone but a child can't  
 9. Generate points table  
 10. Get company name which has consistent increasing revenue.  
+11. People relationships.  
+12. Hire peoples within budget.  
+13. Qualify candidates based on conditions.  
+14. Infosys Puzzle  
+15. Find top 4 numbers from any 2 sections, fulfilling criterias  
