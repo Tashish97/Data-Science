@@ -1,0 +1,1 @@
+### I've tried to solve *sql* based interview questions within this repository under SQL folder using pandas as the data analysis tool.
